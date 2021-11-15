@@ -10,6 +10,14 @@ body{
 	float: none;
 	border-radius: 15px;
 }
+#Player1 , #Player2{
+	display: inline-block;
+	margin-left: 20px;
+}
+#Player1Score, #Player2Score{
+	font-size: x-large;
+	margin-left: 5px;
+}
 #Output{
 background: white;
 border-radius: 10px;
